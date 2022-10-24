@@ -1,7 +1,7 @@
 Syahdad Resolusi
-- Menyelesaikan setiap project yang ada
 - Lebih konsisten dan giat dalam belajar bahasa pemrograman
 - Target pada tahun ini dapat menguasai bahasa pemrograman Javascript dan PHP
 - Selanjutnya mempelajari framework dari masing - masing bahasa pemrograman tersebut
 - Setelah mempelajari bahasa pemrograman diatas, saya berkeinginan mempelajari bahasa pemrograman Golang
 - Membuat banyak portofolio untuk melamar pekerjaan
+- mendapatkan pekerjaan dibidang IT
